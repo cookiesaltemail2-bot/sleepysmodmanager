@@ -3,7 +3,7 @@
     "modName": "Seralyth",
     "version": "1.0.0",
     "dllLink": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
-    "isInjectable": true,
+    "isInjectable": false,
     "isDownloadable": true,
     "iconUrl": "https://seralyth.software/seralyth-transparent.png",
     "bannerUrl": ""
