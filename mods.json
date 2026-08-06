@@ -1,11 +1,20 @@
 [
   {
     "modName": "Seralyth",
-    "version": "5.0.1",
+    "version": "1.0.0",
     "dllLink": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
     "isInjectable": true,
     "isDownloadable": true,
     "iconUrl": "https://seralyth.software/seralyth-transparent.png",
+    "bannerUrl": ""
+  },
+  {
+    "modName": "Malachis Mod Menu",
+    "version": "1.0.0",
+    "dllLink": "https://github.com/Malachi-the-modder/ownerids/releases/latest/download/Malachis_Menu_Reborn.dll",
+    "isInjectable": true,
+    "isDownloadable": true,
+    "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/2cfb139c8175dd2a40b40d6106ee954f.png?raw=true",
     "bannerUrl": ""
   }
 ]
