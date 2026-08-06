@@ -18,6 +18,15 @@
     "bannerUrl": ""
   },
   {
+    "modName": "Leaked NXO",
+    "version": "1.0.0",
+    "dllLink": "https://github.com/Wyvern-Softworks/NXO-Mod-Menu/releases/latest/download/NXO.dll",
+    "isInjectable": true,
+    "isDownloadable": true,
+    "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/f6c328b7bea77a43651a449c961af99b.png?raw=true",
+    "bannerUrl": ""
+  },
+  {
     "modName": "Utilla",
     "version": "1.0.0",
     "dllLink": "https://github.com/Seralyth/Utilla/releases/latest/download/Utilla.dll",
