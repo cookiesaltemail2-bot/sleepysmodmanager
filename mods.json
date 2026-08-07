@@ -54,6 +54,15 @@
     "bannerUrl": ""
   },
   {
+    "modName": "Zloth Y Dances",
+    "version": "2.0.0",
+    "dllLink": "https://git.hamburbur.org/ZlothY/ZlothYDances/releases/download/latest/ZlothYDances.dll",
+    "isInjectable": false,
+    "isDownloadable": true,
+    "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/slothydance.png?raw=true",
+    "bannerUrl": ""
+  },
+  {
     "modName": "Too Much Info",
     "version": "1.2.1",
     "dllLink": "https://git.hamburbur.org/ZlothY/TooMuchInfo/releases/download/latest/TooMuchInfo.dll",
