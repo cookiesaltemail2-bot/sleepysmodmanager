@@ -45,6 +45,24 @@
     "bannerUrl": ""
   },
   {
+    "modName": "Bingus NameTags",
+    "version": "1.6.3",
+    "dllLink": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll",
+    "isInjectable": false,
+    "isDownloadable": true,
+    "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/bgnametags.png?raw=true",
+    "bannerUrl": ""
+  },
+  {
+    "modName": "Gray Servers",
+    "version": "1.0.0",
+    "dllLink": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/raw/refs/heads/main/GreyServers.dll",
+    "isInjectable": false,
+    "isDownloadable": true,
+    "iconUrl": "",
+    "bannerUrl": ""
+  },
+  {
     "modName": "Utilla",
     "version": "1.0.0",
     "dllLink": "https://github.com/Seralyth/Utilla/releases/latest/download/Utilla.dll",
