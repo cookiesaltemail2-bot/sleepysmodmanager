@@ -39,7 +39,7 @@
     "modName": "WalkSim",
     "version": "1.0.0",
     "dllLink": "https://git.hamburbur.org/ZlothY/WalkSimulator/releases/download/latest/WalkSimulator.dll",
-    "isInjectable": true,
+    "isInjectable": false,
     "isDownloadable": true,
     "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/image.png?raw=true",
     "bannerUrl": ""
