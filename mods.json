@@ -9,6 +9,15 @@
     "bannerUrl": ""
   },
   {
+    "modName": "Project Void",
+    "version": "1.0.0",
+    "dllLink": "https://github.com/cookiesaltemail2-bot/purpleclient/releases/latest/download/ProjectVoid.dll",
+    "isInjectable": true,
+    "isDownloadable": true,
+    "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/Project_Void_V3.png?raw=true",
+    "bannerUrl": ""
+  },
+  {
     "modName": "Malachis Mod Menu",
     "version": "1.0.0",
     "dllLink": "https://github.com/Malachi-the-modder/ownerids/releases/latest/download/Malachis_Menu_Reborn.dll",
