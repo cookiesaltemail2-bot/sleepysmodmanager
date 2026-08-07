@@ -59,7 +59,7 @@
     "dllLink": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/raw/refs/heads/main/GreyServers.dll",
     "isInjectable": false,
     "isDownloadable": true,
-    "iconUrl": "",
+    "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/grayserverspic.png?raw=true",
     "bannerUrl": ""
   },
   {
@@ -78,6 +78,15 @@
     "isInjectable": false,
     "isDownloadable": true,
     "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/slothydance.png?raw=true",
+    "bannerUrl": ""
+  },
+  {
+    "modName": "Overstocked",
+    "version": "1.0.0",
+    "dllLink": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/raw/refs/heads/main/Overstocked.dll",
+    "isInjectable": false,
+    "isDownloadable": true,
+    "iconUrl": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/blob/main/overstockedpic.png?raw=true",
     "bannerUrl": ""
   },
   {
