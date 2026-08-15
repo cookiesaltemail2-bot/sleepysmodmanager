@@ -81,6 +81,15 @@
     "bannerUrl": ""
   },
   {
+    "modName": "No Leaves",
+    "version": "1.0.0",
+    "dllLink": "https://github.com/cookiesaltemail2-bot/sleepysmodmanager/raw/refs/heads/main/NoLeaves.dll",
+    "isInjectable": false,
+    "isDownloadable": true,
+    "iconUrl": "",
+    "bannerUrl": ""
+  },
+  {
     "modName": "ClearMic REMASTER",
     "version": "1.0.0",
     "dllLink": "https://github.com/xynzhere/ClearMic-REMASTER/releases/latest/download/ClearMic.REMASTER.dll",
